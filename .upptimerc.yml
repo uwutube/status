@@ -1,3 +1,5 @@
+# https://upptime.js.org/docs/configuration
+
 owner: uwutube
 repo: status
 
@@ -7,17 +9,11 @@ sites:
     url: https://uwutube.co/
 
 status-website:
-  # Add your custom domain below, or remove the next line if you don't have a domain
   cname: status.uwutube.co
-  # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://uwutube.co/img/logo.svg
   name: uwutube status
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
