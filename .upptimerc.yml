@@ -3,20 +3,22 @@
 owner: uwutube
 repo: status
 
-# Add your sites here
 sites:
   - name: uwutube web
     url: https://uwutube.co/
+
+assignees:
+  - xezno
 
 status-website:
   cname: status.uwutube.co
   logoUrl: https://uwutube.co/img/logo.svg
   name: uwutube status
   navbar:
-    - title: Status
+    - title: status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: uwutube
+      href: https://uwutube.co/
 
 commitMessages:
   commitAuthorName: "uwutube bot"
