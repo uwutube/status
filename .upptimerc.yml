@@ -17,3 +17,7 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+
+commitMessages:
+  commitAuthorName: "uwutube bot"
+  commitAuthorEmail: "76650104+uwutube-bot@users.noreply.github.com"
