@@ -12,7 +12,7 @@ assignees:
 
 status-website:
   cname: status.uwutube.co
-  logoUrl: https://uwutube.co/img/logo.svg
+  logoUrl: https://uwutube.co/images/logo.svg
   name: uwutube status
   navbar:
     - title: status
